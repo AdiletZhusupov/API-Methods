@@ -1,3 +1,3 @@
 # API-Methods
 
-Deployed on: spiteful-range.surge.sh
+Deployed on: https://spiteful-range.surge.sh/
